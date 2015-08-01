@@ -1,0 +1,27 @@
+{
+  "name": "vkontakte-to-google-music",
+  "version": "1.0.0",
+  "description": "Import music from your vkontakte (vk) account in your GoogleMusic account",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "playmusic": "^2.0.2",
+    "request": "^2.60.0",
+    "lodash": "^3.10.0",
+    "sleep": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IncoCode/nodejs-Vkontakte-To-GoogleMusic.git"
+  },
+  "author": "IncoCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IncoCode/nodejs-Vkontakte-To-GoogleMusic/issues"
+  },
+  "homepage": "https://github.com/IncoCode/nodejs-Vkontakte-To-GoogleMusic#readme"
+}
