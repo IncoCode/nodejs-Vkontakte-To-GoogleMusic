@@ -3,7 +3,7 @@
 
 This app creates new playlist in your Google Play Music account and adds there songs from your Vkontakte account.
 
-## Configuration
+## Usage
 1. Rename `config.new.js` to `config.js`;
 2. Open `config.js`, specify your credentials there and etc;
 3. Run app using `node app` command.
