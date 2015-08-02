@@ -1,7 +1,7 @@
 {
   "name": "vkontakte-to-google-music",
   "version": "1.0.0",
-  "description": "Import music from your vkontakte (vk) account in your GoogleMusic account",
+  "description": "Transfer music from your vkontakte (vk) account in your GoogleMusic account",
   "main": "app.js",
   "dependencies": {
     "bluebird": "^2.9.34",
