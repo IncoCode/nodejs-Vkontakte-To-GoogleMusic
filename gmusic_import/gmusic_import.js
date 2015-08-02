@@ -100,7 +100,7 @@ module.exports = function (email, password, androidId, tryConvertToEn) {
     email: email,
     password: password
   };
-  if (androidId || androidId === '')
+  if (androidId && androidId !== '')
     obj.androidId = androidId;
 
   return new Promise(function (resolve, reject) {

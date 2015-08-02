@@ -1,6 +1,16 @@
 module.exports = {
+  /**
+   * Google Email
+   */
   email: '',
+  /**
+   * Google Password
+   */
   password: '',
+  /**
+   * Your android device ID.
+   * Leave empty if you don't know it
+   */
   androidId: '',
   /**
    * In VK the names of some songs consist of Russian letters, which are used as English letters.
